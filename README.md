@@ -1,2 +1,2 @@
 # lowres-doomgeneric
-The GBA port of DOOM made portable for a very easily portable version of DOOM
+The [GBA port](https://github.com/doomhack/GBADoom) of DOOM made portable for a very easily portable version of DOOM
